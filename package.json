@@ -41,7 +41,7 @@
 		"react-native-drawer": "https://github.com/GeekyAnts/react-native-drawer",
 		"react-native-easy-grid": "0.1.15",
 		"react-native-keyboard-aware-scroll-view": "https://github.com/GeekyAnts/react-native-keyboard-aware-scroll-view",
-		"react-native-vector-icons": "~4.1.1",
+		"react-native-vector-icons": "~4.3.0",
 		"react-tween-state": "^0.1.5",
 		"tween-functions": "^1.0.1"
 	},
